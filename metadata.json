@@ -1,0 +1,7 @@
+{
+  "name": "Shiva gen ai",
+  "description": "An intelligent AI agent that helps users recreate high-quality AI visuals by analyzing reference content and maintaining user identity using advanced Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
